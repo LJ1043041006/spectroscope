@@ -1,3 +1,7 @@
+Our analysis tool have produce a request flow based on log analysis for distributed system hadoop. We want use the request flow to find the performance abnormal, we choss the Spectroscope. 
+Now Spectroscope only can compare the two identical graph to find the time anomaly edge.We want to extend it to make it can accept our two request flow that maybe littte difference. 
+
+
 Spectroscope
 ============
 Spectroscope is an implementation of request-flow comparison, a
